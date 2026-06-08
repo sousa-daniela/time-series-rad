@@ -34,12 +34,11 @@ Forecasting daily cyclist counts at Munich bike counter stations using statistic
 ├── src/
 │   └── data_loader.py        # Shared data loading utilities
 ├── results/
-│   ├── figures/              # PNG figure outputs
-│   ├── models/               # Fitted model objects (.pkl)
-│   ├── predictions/          # Forecast CSVs per station
-│   └── tables/               # Performance metrics CSVs
-└── outputs/
-    └── figures/              # Thesis-ready figure exports
+    ├── figures/              # PNG figure outputs
+    ├── models/               # Fitted model objects (.pkl)
+    ├── predictions/          # Forecast CSVs per station
+    └── tables/               # Performance metrics CSVs
+
 ```
 
 ## Setup
