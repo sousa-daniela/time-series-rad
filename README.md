@@ -14,7 +14,7 @@ Forecasting daily cyclist counts at Munich bike counter stations using statistic
 
 ```
 ├── data/
-│   ├── raw/                  # Raw counter CSVs and MVG trip data
+│   ├── raw/                  # Raw counter CSVs (download separately)
 │   └── processed/            # master_bike_data.csv (all stations, daily)
 ├── notebooks/                # Analysis pipeline (run in order, 01 → 14)
 │   ├── 01_data_loading.ipynb
