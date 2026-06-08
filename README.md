@@ -81,9 +81,7 @@ Each notebook is self-contained after `01_data_loading.ipynb`. Outputs (models, 
 
 ## Dataset Source
 
-München Open Data Portal — bike counter network, daily counts 2013–2026  
-
-[München Open Data Portal]([https://www.kaggle.com/osmi/mental-health-in-tech-2016](https://opendata.muenchen.de/dataset/daten-der-raddauerzaehlstellen-muenchen-jahreszahlen))
+[München Open Data Portal](https://opendata.muenchen.de/dataset/daten-der-raddauerzaehlstellen-muenchen-jahreszahlen) — bike counter network, daily counts 2013–2026  
 
 ---
 
