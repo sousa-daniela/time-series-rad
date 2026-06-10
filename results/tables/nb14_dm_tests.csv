@@ -1,0 +1,13 @@
+Pair,Station,e1,e2,DM_stat,p_value,Interpretation
+(a) SARIMAX+wx vs Prophet+wx,Hirsch,SARIMAX+wx,Prophet+wx,10.113,0.0,Prophet+wx significantly better (p=0.000)
+(a) SARIMAX+wx vs Prophet+wx,Olympia,SARIMAX+wx,Prophet+wx,6.394,0.0,Prophet+wx significantly better (p=0.000)
+(a) SARIMAX+wx vs Prophet+wx,Erhardt,SARIMAX+wx,Prophet+wx,-0.729,0.4663,No sig. diff (p=0.466)
+(b) SARIMAX+XGB vs Prophet+XGB,Hirsch,SARIMAX+XGB,Prophet+XGB,10.367,0.0,Prophet+XGB significantly better (p=0.000)
+(b) SARIMAX+XGB vs Prophet+XGB,Olympia,SARIMAX+XGB,Prophet+XGB,6.508,0.0,Prophet+XGB significantly better (p=0.000)
+(b) SARIMAX+XGB vs Prophet+XGB,Erhardt,SARIMAX+XGB,Prophet+XGB,-2.406,0.0164,SARIMAX+XGB significantly better (p=0.016)
+(c) Prophet+wx vs Prophet+XGB (hybrid gain),Hirsch,Prophet+wx,Prophet+XGB,5.539,0.0,Prophet+XGB significantly better (p=0.000)
+(c) Prophet+wx vs Prophet+XGB (hybrid gain),Olympia,Prophet+wx,Prophet+XGB,3.969,0.0001,Prophet+XGB significantly better (p=0.000)
+(c) Prophet+wx vs Prophet+XGB (hybrid gain),Erhardt,Prophet+wx,Prophet+XGB,3.573,0.0004,Prophet+XGB significantly better (p=0.000)
+(d) SARIMAX+wx vs SARIMAX+XGB (hybrid gain),Hirsch,SARIMAX+wx,SARIMAX+XGB,8.56,0.0,SARIMAX+XGB significantly better (p=0.000)
+(d) SARIMAX+wx vs SARIMAX+XGB (hybrid gain),Olympia,SARIMAX+wx,SARIMAX+XGB,4.267,0.0,SARIMAX+XGB significantly better (p=0.000)
+(d) SARIMAX+wx vs SARIMAX+XGB (hybrid gain),Erhardt,SARIMAX+wx,SARIMAX+XGB,6.749,0.0,SARIMAX+XGB significantly better (p=0.000)

@@ -1,0 +1,7 @@
+Station,Variant,Best_iters,Val_RMSE,Val_MAE,Test_RMSE,Test_MAE
+Hirsch,no_weather,102,428.0,366.8,418.2,350.8
+Hirsch,weather,266,285.5,231.0,248.1,200.8
+Olympia,no_weather,78,662.1,546.6,730.5,605.6
+Olympia,weather,196,499.5,398.1,472.9,382.3
+Erhardt,no_weather,128,1349.7,1154.2,1281.4,1074.8
+Erhardt,weather,225,739.1,609.4,701.9,588.0

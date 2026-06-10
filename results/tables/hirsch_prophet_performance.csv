@@ -1,0 +1,5 @@
+Model,Val 7d RMSE,Test 7d RMSE,Val 7d MAE,Test 7d MAE
+Prophet baseline (no weather),465.8,472.8,394.9,400.7
+Prophet + weather (multiplicative),344.0,316.5,289.0,269.6
+SARIMAX + Fourier K=4 (benchmark),,497.8,,420.8
+SARIMAX + Fourier + weather (benchmark),,471.0,,403.3

@@ -1,0 +1,5 @@
+Model,Val 7d RMSE,Test 7d RMSE,Val 7d MAE,Test 7d MAE,Mean residual
+Prophet baseline (no weather),1491.2,1576.1,1314.1,1345.8,-802.4
+Prophet + weather (multiplicative),916.8,870.5,753.5,745.8,-329.1
+SARIMAX + Fourier K=4 (benchmark),,1541.9,,,
+SARIMAX + Fourier + weather (benchmark),,843.5,,703.6,-33.9

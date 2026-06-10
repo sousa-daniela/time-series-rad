@@ -1,0 +1,4 @@
+Variable,Unit,Historical mean (2013-2023),Test mean (2024-2025),Difference,Pct change,Direction for cycling
+max_temp,°C,15.32,16.03,0.7,4.6,✓ favourable
+sunshine_hours,h,5.31,5.68,0.36,6.8,✓ favourable
+precipitation,mm,2.46,2.45,-0.01,-0.4,✓ favourable

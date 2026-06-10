@@ -1,0 +1,4 @@
+Station,Prophet_RMSE,Hybrid_RMSE,Prophet_MAE,Hybrid_MAE,Gain_pct,Resid_std_before,Resid_std_after
+Hirsch,316.5,280.2,269.6,234.2,11.5,258.9,190.1
+Olympia,546.9,498.9,450.6,408.2,8.8,521.0,384.1
+Erhardt,870.5,774.4,745.8,656.7,11.0,778.8,585.5

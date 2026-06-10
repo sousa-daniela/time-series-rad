@@ -1,0 +1,4 @@
+Station,SARIMAX_RMSE,Hybrid_RMSE,SARIMAX_MAE,Hybrid_MAE,Gain_pct,Resid_std_before,Resid_std_after
+Hirsch,467.5,419.1,399.7,359.0,10.4,262.1,191.3
+Olympia,756.0,727.1,652.0,625.6,3.8,485.5,365.4
+Erhardt,842.6,719.9,703.6,602.8,14.6,728.1,543.6

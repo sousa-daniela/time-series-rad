@@ -1,0 +1,4 @@
+Variable,Hirsch_coef,Hirsch_SE,Hirsch_p,Olympia_coef,Olympia_SE,Olympia_p,z_stat,p_equal,diff_pct
+max_temp,26.736,1.835,0.0,40.793,2.996,0.0,4.001,0.0001,52.6
+sunshine_hours,37.527,1.745,0.0,67.899,2.909,0.0,8.953,0.0,80.9
+precipitation,-85.728,6.284,0.0,-154.938,10.846,0.0,-5.521,0.0,-80.7

@@ -1,0 +1,5 @@
+Station,Spec,max_temp_coef,SE
+Hirsch,univariate (temp only),44.3,1.58
+Hirsch,full (all weather),26.7,1.84
+Olympia,univariate (temp only),88.2,2.87
+Olympia,full (all weather),41.6,3.0

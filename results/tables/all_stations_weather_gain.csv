@@ -1,0 +1,7 @@
+Station,Model,Base RMSE,Full RMSE,Weather gain (%)
+Hirsch (commuter),SARIMAX,497.8,471.0,5.4
+Hirsch (commuter),Prophet,472.8,316.5,33.1
+Olympia (recreational),SARIMAX,835.0,759.8,9.0
+Olympia (recreational),Prophet,792.6,542.3,31.6
+Erhardt (struct. break),SARIMAX,1541.9,843.5,45.3
+Erhardt (struct. break),Prophet,1576.1,870.5,44.8

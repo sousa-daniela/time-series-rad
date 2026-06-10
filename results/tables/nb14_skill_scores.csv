@@ -1,0 +1,6 @@
+Model,Hirsch,Olympia,Erhardt
+SARIMAX+wx,28.9,21.9,55.8
+Prophet+wx,52.2,44.2,54.3
+SARIMAX+XGB,36.7,25.2,62.2
+Prophet+XGB,57.7,48.7,59.4
+SeasonalNaive-364,0.0,0.0,0.0

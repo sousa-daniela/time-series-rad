@@ -1,0 +1,5 @@
+Model,Test 7d RMSE,Test 30d RMSE,Improvement vs SeasonalNaive,Notes
+SeasonalNaive-364,662.1,687.4,—,Best naive baseline (notebook 03)
+"SARIMA(1,1,1)(1,0,1)[7]",1511.2,1519.8,-128.2%,"Pure SARIMA, no annual seasonality (nb03)"
+SARIMAX + Fourier K=4,497.8,507.9,+24.8%,SARIMAX + Fourier annual terms (nb04)
+"SARIMAX + Fourier + Weather (max_temp, sunshine_hours, precipitation)",471.0,481.5,+28.9%,Best weather model (this notebook)
